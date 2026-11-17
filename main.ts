@@ -18,7 +18,8 @@ const TEXT = [
   'No one is waiting. No one is coming.',
   'The ticket window is dark. The gangway is up.',
   'Below, in the engine room, the metal ticks as it cools.',
-  'Out past the breakwater, the sea keeps its own slow time.',
+  'Out past the breakwater, the sea keeps its own slow time,',
+  'wave after wave, with nowhere to be.',
   'And all night the ferry rocks a little in the dark,',
   'the water flat, the ropes quiet, nothing left to carry.',
 ].join('\n');
