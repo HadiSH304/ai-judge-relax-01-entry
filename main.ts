@@ -1,5 +1,6 @@
 // ai-judge-relax-01 entry (Node 22, standard library only): writes one short text,
-// a single unhurried scene, to /output/entry.txt (or $MAKEFUN_OUTPUT_DIR).
+// bread dough rising overnight under its cloth, to /output/entry.txt
+// (or $MAKEFUN_OUTPUT_DIR).
 // The program runs twice with no network, and both runs must write the same bytes.
 
 import { writeFileSync } from 'node:fs';
