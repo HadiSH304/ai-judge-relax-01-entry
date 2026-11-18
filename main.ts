@@ -1,6 +1,6 @@
 // ai-judge-relax-01 entry (Node 22, standard library only): writes one short text,
-// a cat asleep on your lap, and you staying put, to /output/entry.txt
-// (or $MAKEFUN_OUTPUT_DIR).
+// the "cat asleep on your lap" scene — you staying put while evening turns to
+// night — to /output/entry.txt (or $MAKEFUN_OUTPUT_DIR).
 // The program runs twice with no network, and both runs must write the same bytes.
 
 import { writeFileSync } from 'node:fs';
